@@ -30,13 +30,13 @@
     
 <h2><img src = "https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="35"> Github Stats </h2>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=adhamelagaty&label=Profile%20views&color=0e75b6&style=flat" alt="AdhamElagaty" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ibrahimmostafa&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahim mostafa" /> </p>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AdhamElagaty&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="AdhamElagaty" />
 </p>
 
 <p align="center">      
-<a href="https://github.com/AdhamElagaty">
+<a href="https://github.com/Ibrahim8545">
 <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=AdhamElagaty&show_icons=true&theme=gruvbox&hide_border=true" />
 <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=AdhamElagaty&theme=gruvbox&hide_border=true" />
 </a>
@@ -49,8 +49,8 @@
 <h2> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80"> Connect with me </h2>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/adhamelagaty/" target='_blank'><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a> 
-<a href="mailto:adhamelagaty@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me via Gmail"/></a>
+<a href="https://www.linkedin.com/in/ibrahim-mostafa-58b315262/" target='_blank'><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a> 
+<a href="mailto:ibrahimmostafa122020@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me via Gmail"/></a>
 
 <p align="center">
 <pI hope this helps! Let me know if you have any further questions or if there is anything else I can assist you with.
