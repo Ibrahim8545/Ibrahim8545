@@ -35,7 +35,7 @@
     
 <h2><img src = "https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="35"> Github Stats </h2>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ibrahimmostafa&label=Profile%20views&color=0e75b6&style=flat" alt="Ibrahim Mostafa" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=IbrahimMostafa&label=Profile%20views&color=0e75b6&style=flat" alt="Ibrahim Mostafa" /> </p>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=IbrahimMostafa&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="IbrahimMostafa" />
 </p>
