@@ -42,7 +42,7 @@
 
 <p align="center">      
 <a href="https://github.com/Ibrahim8545">
-<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=AdhamElagaty&show_icons=true&theme=gruvbox&hide_border=true" />
+<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=IbrahimMostafa&show_icons=true&theme=gruvbox&hide_border=true" />
 <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=IbrahimMostafa&theme=gruvbox&hide_border=true" />
 </a>
 </p>
